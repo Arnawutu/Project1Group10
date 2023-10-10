@@ -1,6 +1,4 @@
 #ADD API KEY
-api_key = 'x5Rs3iP3SWsyzx1bkz5w'
+api_key = 'API KEY HERE'
 
-from config import api_key
 
-#comment

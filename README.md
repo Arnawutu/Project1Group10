@@ -9,9 +9,9 @@ Our organization (G10 Consultant Group) is a data analytics and consulting group
   Components
 1)	National trend analysis
   -  The goal is to discover which states and property types have seen the most growth in the USA over the past decade.
-3)	Main coast analysis
+2)	Main shipping industry analysis
   - The goal is to compare the performance of the four main coastal states (California, Texas, Illinois, Ohio) in the USA over the past decade.
-4)	Safe state analysis
+3)	Safe state analysis
   - The goal is to compare the pricing performance of two of the safest states (New Hampshire, Maine) in the USA over the past decade. 
 
 # Table of Contents

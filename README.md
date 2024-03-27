@@ -3,6 +3,43 @@
 ## Introduction
 Our organization (G10 Consultant Group) is a data analytics and consulting group that specializes in market trend analysis across the real estate, technology, and entertainment sectors. 
 
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone git@github.com:Arnawutu/Project1Group10.git
+```
+
+Go to the project directory
+
+```bash
+  cd Project1Group10
+```
+
+Install dependencies
+
+```bash
+  pip Install pandas
+```
+```bash
+  pip Install requests
+```
+```bash
+  pip Install scipy
+```
+```bash
+  pip install matplotlib
+
+```
+Get the API key
+
+- Create Nasdaq profile to get the api key.
+- Paste api key in config.py 
+- Run the .ipynb file using Jupyter Notebook.
+
+
 ## Description
   - This is an exploratory data analysis project with the goal of constructing a diversified investment strategy in the USA’s housing market.
   

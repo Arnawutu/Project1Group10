@@ -17,6 +17,7 @@ Our organization (G10 Consultant Group) is a data analytics and consulting group
 2)	Main shipping industry analysis
   - The goal is to compare the performance properties of the four main coastal states (California, Texas, Illinois, Ohio) in the USA over the past decade.
 
+
   ![alt text](screenshots/Screenshot3.png) 
 
   ![alt text](screenshots/Screenshot4.png) 
@@ -26,7 +27,11 @@ Our organization (G10 Consultant Group) is a data analytics and consulting group
 3)	Safe state analysis
   - The goal is to compare the pricing performance of two of the safest states (New Hampshire, Maine) in the USA over the past decade. 
 
+#### New Hampshire properties
+
   ![alt text](screenshots/Screenshot6.png) 
+
+#### Maine properties
 
   ![alt text](screenshots/Screenshot7.png) 
 
